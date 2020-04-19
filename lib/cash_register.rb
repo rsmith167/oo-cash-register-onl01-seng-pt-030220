@@ -46,3 +46,4 @@ class CashRegister
   end
   
 end
+x = CashRegister.new
